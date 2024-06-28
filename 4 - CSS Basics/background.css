@@ -1,0 +1,27 @@
+.color-example
+{
+ /*  */
+ /* color: yellow; */
+color: #00ff0f;;
+
+}
+.background-position-example{
+background-image: url("CAT.jfif");
+background-position: center;
+background-size: cover;
+height: 300px;
+background-repeat: no-repeat;
+}
+
+.opacity-example {
+    color: rgba(255, 255 , 0, .5);
+
+}
+.image-sizing-example {
+    background-repeat: no-repeat;
+    height: 200px;
+    width; 200px;
+    display: block;
+    margin: auto;
+
+}

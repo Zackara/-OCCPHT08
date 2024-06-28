@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ:eght@100..400display=swap');
+
+
+.font-family-size {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+cursive;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline{
+text-decoration: underline;
+text-decoration: line-through;
+/* text-decoration: line-through;*/
+}
+
+.center-align {
+    text-align: center;
+}
+
+.line-height {
+    line-height: 4;
+}
+
+.letter-spacing{
+    letter-spacing: 3px;
+    word-spacing: 4px;
+}
+
+.text-shadow 
+    /*
+1st value----> horizontal
+2nd value----> vertical
+3rd value----> blurr */
+    { text-shadow:  5px 5px 2px rgb(27, 47, 0)
+}
