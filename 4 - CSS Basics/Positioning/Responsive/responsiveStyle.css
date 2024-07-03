@@ -1,0 +1,99 @@
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333333;
+    padding: 20px;
+  }
+  
+    h1 {
+    color: #ffffff;
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  /* Hero Section Styles */
+  .hero {
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.15OLcWfnfRDOzxEafx6DegHaEK&pid=Api&P=0&h=220');
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+    text-align: center;
+    color: #ffffff; 
+  }
+  
+  h2 {
+    font-size: 48px;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  
+  .button {
+    background-color: #ffffff;
+    color: #333333;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
+  /* Features Section Styles */
+  .features {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .feature {
+    margin-bottom: 40px;
+  }
+  
+  img {
+    width: 100px;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #333333;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer p {
+    color: #ffffff;
+    font-size: 12px;
+    margin: 0;
+  }
+  

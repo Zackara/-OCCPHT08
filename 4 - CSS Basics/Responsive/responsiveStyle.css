@@ -1,0 +1,97 @@
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333333;
+    padding: 20px;
+  }
+  
+    h1 {
+    color: #ffffff;
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  /* Hero Section Styles */
+  .hero {
+    background-image: url('https://images.search.yahoo.com/images/view;_ylt=AwrO.pKEoYJmTRkAxCiJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzA3OTQ2NWI3ZTZhNTFkZDI3OGNiYTE0NDE4YjQ0ZWRlBGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbackground%2Bimage%2Babstract%26ei%3DUTF-8%26type%3DE211US714G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D3&w=3840&h=2160&imgurl=wallpaperaccess.com%2Ffull%2F1129104.jpg&rurl=https%3A%2F%2Fwallpaperaccess.com%2Fabstract-color&size=282.2KB&p=background+image+abstract&oid=079465b7e6a51dd278cba14418b44ede&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=Abstract+Color+Wallpapers+-+Top+Free+Abstract+Color+Backgrounds+-+WallpaperAccess&b=0&ni=125&no=3&ts=&tab=organic&sigr=LJV5ryb6CJde&sigb=qSWHrOMyjHEJ&sigi=PhCtCEqGtIAe&sigt=vIF5QR6QDJ0Z&.crumb=YE971PqJVzl&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E211US714G0')
+    padding: 100px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  h2 {
+    font-size: 48px;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  
+  .button {
+    background-color: #ffffff;
+    color: #333333;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
+  /* Features Section Styles */
+  .features {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .feature {
+    margin-bottom: 40px;
+  }
+  
+  img {
+    width: 100px;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #333333;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer p {
+    color: #ffffff;
+    font-size: 12px;
+    margin: 0;
+  }
+  
